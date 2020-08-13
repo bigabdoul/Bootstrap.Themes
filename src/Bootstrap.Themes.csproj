@@ -1,11 +1,19 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Abdourahamane Kaba</Authors>
+    <Company>Karfamsoft</Company>
+    <Description>A collection of customized Twitter's Bootstrap themes that may be included into your projects. The themes support Bootstrap version 3 and some of version 4. It contains CSS files embedded as static resources that are served to client applications on demand.</Description>
+    <Copyright>Karfamsoft. All rights reserved.</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/bigabdoul/Bootstrap.Themes</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>css, bootstrap, style-sheets, c#, asp.net, mvc</PackageTags>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\Users\hp\Documents\Visual Studio 2017\Projects\Bootstrap.Themes\src\Bootstrap.Themes.xml</DocumentationFile>
+    <DocumentationFile>$(SolutionDir)src\Bootstrap.Themes.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
