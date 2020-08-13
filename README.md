@@ -1,8 +1,10 @@
 # Bootstrap.Themes
 
-This project is a collection of customized Twitter's Bootstrap themes that may be
-included into your projects. The themes support Bootstrap version 3 and some of
-version 4.
+A collection of customized Twitter's Bootstrap themes that may be included into your
+projects. The themes support Bootstrap version 3 and some of version 4.
+
+It contains CSS files embedded as static resources that are served to client applications
+on demand.
 
 ## Integrating Bootstrap.Themes into an ASP.NET (Core) MVC Project
 
