@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Bootstrap.Themes
+﻿namespace Bootstrap.Themes
 {
     /// <summary>
     /// Provides enumerated names of built-in bootstrap themes.
