@@ -143,7 +143,7 @@ namespace Bootstrap.Themes
         {
             theme = null;
             var resname = name.ToString();
-            var content = Resources.ResourceManager.GetString($"{resname.ToLowerInvariant()}_bootstrap_min", culture);
+            var content = Resources.ResourceManager.GetString("Bootstrap" + resname, culture);
 
             if (string.IsNullOrWhiteSpace(content) && !string.IsNullOrWhiteSpace(fallBackThemeName))
             {

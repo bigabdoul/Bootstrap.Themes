@@ -19,10 +19,10 @@ namespace Bootstrap.Themes.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace Bootstrap.Themes.Properties {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Bootstrap.Themes.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace Bootstrap.Themes.Properties {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -71,7 +71,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Designed and built with all the love in the world by @mdo and @fat.
         /// */.clearfix{*zoom:1}.clearfix:before,.clearfix:after{display:table;line-height:0;content:&quot;&quot;}.clearfix:after{clear:both}.hide-text{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0}.input [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string amelia_bootstrap_min {
+        public static string amelia_bootstrap_min {
             get {
                 return ResourceManager.GetString("amelia_bootstrap_min", resourceCulture);
             }
@@ -90,7 +90,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcapt [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string cerulean_bootstrap_min {
+        public static string cerulean_bootstrap_min {
             get {
                 return ResourceManager.GetString("cerulean_bootstrap_min", resourceCulture);
             }
@@ -109,7 +109,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-ad [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string cosmo_bootstrap_min {
+        public static string cosmo_bootstrap_min {
             get {
                 return ResourceManager.GetString("cosmo_bootstrap_min", resourceCulture);
             }
@@ -128,7 +128,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjus [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string cyborg_bootstrap_min {
+        public static string cyborg_bootstrap_min {
             get {
                 return ResourceManager.GetString("cyborg_bootstrap_min", resourceCulture);
             }
@@ -147,7 +147,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust: [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string darkly_bootstrap_min {
+        public static string darkly_bootstrap_min {
             get {
                 return ResourceManager.GetString("darkly_bootstrap_min", resourceCulture);
             }
@@ -166,7 +166,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust: [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string flatly_bootstrap_min {
+        public static string flatly_bootstrap_min {
             get {
                 return ResourceManager.GetString("flatly_bootstrap_min", resourceCulture);
             }
@@ -185,7 +185,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100% [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string journal_bootstrap_min {
+        public static string journal_bootstrap_min {
             get {
                 return ResourceManager.GetString("journal_bootstrap_min", resourceCulture);
             }
@@ -204,7 +204,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-te [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string lumen_bootstrap_min {
+        public static string lumen_bootstrap_min {
             get {
                 return ResourceManager.GetString("lumen_bootstrap_min", resourceCulture);
             }
@@ -223,7 +223,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust: [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string paper_bootstrap_min {
+        public static string paper_bootstrap_min {
             get {
                 return ResourceManager.GetString("paper_bootstrap_min", resourceCulture);
             }
@@ -242,7 +242,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-w [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string readable_bootstrap_min {
+        public static string readable_bootstrap_min {
             get {
                 return ResourceManager.GetString("readable_bootstrap_min", resourceCulture);
             }
@@ -261,7 +261,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100% [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string sandstone_bootstrap_min {
+        public static string sandstone_bootstrap_min {
             get {
                 return ResourceManager.GetString("sandstone_bootstrap_min", resourceCulture);
             }
@@ -280,7 +280,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%; [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string simplex_bootstrap_min {
+        public static string simplex_bootstrap_min {
             get {
                 return ResourceManager.GetString("simplex_bootstrap_min", resourceCulture);
             }
@@ -299,7 +299,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcapt [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string slate_bootstrap_min {
+        public static string slate_bootstrap_min {
             get {
                 return ResourceManager.GetString("slate_bootstrap_min", resourceCulture);
             }
@@ -318,7 +318,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-ad [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string solar_bootstrap_min {
+        public static string solar_bootstrap_min {
             get {
                 return ResourceManager.GetString("solar_bootstrap_min", resourceCulture);
             }
@@ -337,7 +337,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-te [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string spacelab_bootstrap_min {
+        public static string spacelab_bootstrap_min {
             get {
                 return ResourceManager.GetString("spacelab_bootstrap_min", resourceCulture);
             }
@@ -356,7 +356,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;- [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string superhero_bootstrap_min {
+        public static string superhero_bootstrap_min {
             get {
                 return ResourceManager.GetString("superhero_bootstrap_min", resourceCulture);
             }
@@ -375,7 +375,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-we [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string united_bootstrap_min {
+        public static string united_bootstrap_min {
             get {
                 return ResourceManager.GetString("united_bootstrap_min", resourceCulture);
             }
@@ -395,7 +395,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// */@import url(&quot;https://fonts.googleapis.com/css?family=Roboto:400,700&quot;);:root{--blue:#2A9FD6;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#CC0000;-- [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string v4_cyborg_bootstrap_min {
+        public static string v4_cyborg_bootstrap_min {
             get {
                 return ResourceManager.GetString("v4_cyborg_bootstrap_min", resourceCulture);
             }
@@ -415,7 +415,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// */@import url(&quot;https://fonts.googleapis.com/css?family=Raleway:400,700&quot;);:root{--blue:#4582EC;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#d9534f;- [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string v4_litera_bootstrap_min {
+        public static string v4_litera_bootstrap_min {
             get {
                 return ResourceManager.GetString("v4_litera_bootstrap_min", resourceCulture);
             }
@@ -435,7 +435,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// */@import url(&quot;https://fonts.googleapis.com/css?family=Nunito+Sans:400,600&quot;);:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#d953 [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string v4_lux_bootstrap_min {
+        public static string v4_lux_bootstrap_min {
             get {
                 return ResourceManager.GetString("v4_lux_bootstrap_min", resourceCulture);
             }
@@ -455,7 +455,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// */@import url(&quot;https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&quot;);:root{--blue:#2196F3;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#e [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string v4_materia_bootstrap_min {
+        public static string v4_materia_bootstrap_min {
             get {
                 return ResourceManager.GetString("v4_materia_bootstrap_min", resourceCulture);
             }
@@ -475,7 +475,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// */@import url(&quot;https://fonts.googleapis.com/css?family=Montserrat&quot;);:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#FF7851;--oran [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string v4_minty_bootstrap_min {
+        public static string v4_minty_bootstrap_min {
             get {
                 return ResourceManager.GetString("v4_minty_bootstrap_min", resourceCulture);
             }
@@ -495,7 +495,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// */:root{--blue:#007bff;--indigo:#6610f2;--purple:#593196;--pink:#e83e8c;--red:#FC3939;--orange:#fd7e14;--yellow:#EFA31D;--green:#13B955;--teal:#20c997;--cyan: [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string v4_pulse_bootstrap_min {
+        public static string v4_pulse_bootstrap_min {
             get {
                 return ResourceManager.GetString("v4_pulse_bootstrap_min", resourceCulture);
             }
@@ -515,7 +515,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// */@import url(&quot;https://fonts.googleapis.com/css?family=Neucha|Cabin+Sketch&quot;);:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc35 [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string v4_sketchy_bootstrap_min {
+        public static string v4_sketchy_bootstrap_min {
             get {
                 return ResourceManager.GetString("v4_sketchy_bootstrap_min", resourceCulture);
             }
@@ -534,7 +534,7 @@ namespace Bootstrap.Themes.Properties {
         /// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
         /// *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:san [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string yeti_bootstrap_min {
+        public static string yeti_bootstrap_min {
             get {
                 return ResourceManager.GetString("yeti_bootstrap_min", resourceCulture);
             }
